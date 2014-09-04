@@ -1,4 +1,4 @@
-html_paradigmas
+HTML for Paradigmas
 ===============
 
 Frontend code for Paradigmas
